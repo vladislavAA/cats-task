@@ -6,7 +6,10 @@ import Favorites from "./Favorites/Favorites";
 const AppRouter: FC = () => {
   return (
     <Routes>
-      <Route path="/" element={<Cats />} />
+      <Route
+        path="https://vladislavaa.github.io/cats-task/"
+        element={<Cats />}
+      />
       <Route path="/favorites" element={<Favorites />} />
     </Routes>
   );
