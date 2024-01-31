@@ -1,7 +1,7 @@
 {
   "name": "frontend-challenge",
   "version": "0.1.0",
-  "homepage": "https://vladislavaa.github.io/cats-task",
+  "homepage": "https://vladislavAA.github.io/cats-task",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
