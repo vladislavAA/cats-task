@@ -8,7 +8,7 @@ export interface catData {
 class CatsData {
   data: catData[] = [];
   idMap = new Map();
-  url = `https://api.thecatapi.com/v1/images/search?limit=30`;
+  url = `https://api.thecatapi.com/v1/images/search?limit=70`;
   api_key =
     "live_WypnmiGwfCidkByhPZ0EztF1E6rW4OZF2xUY60qYRAGX4wuYBMQiRom06dhUeviN";
   loading = false;
