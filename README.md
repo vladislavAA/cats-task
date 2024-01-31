@@ -4,6 +4,7 @@ Stack:
  - ReactJS
  - MobX
  - React-Router
+ - TypeScript
  - SCSS
 
 Checklist: 
