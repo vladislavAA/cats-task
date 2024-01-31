@@ -4,6 +4,7 @@ Stack:
  - ReactJS
  - MobX
  - React-Router
+ - SCSS
 
 Checklist: 
   - по умолчанию должна открываться вкладка "все котики" - ✅
